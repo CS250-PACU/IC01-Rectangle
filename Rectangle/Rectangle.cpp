@@ -105,7 +105,7 @@ Returned:			None
 void Rectangle::write (ostream& rcOutStream) const {
 	rcOutStream << "Rectangle; Length = " << mLength << "; Width = "
 		<< mWidth << "; Area = " << getArea ()
-		<< "; Perimeter = " << getPerimeter ();
+		<< "; Perimeter = " << getPerimeter () << endl; 
 }
 
 /**********************************************************************
