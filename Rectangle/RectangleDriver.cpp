@@ -3,8 +3,8 @@
 // Author:		 CS, Pacific University
 // Date:			 2/6/2023
 // Class:			 CS 250
-// Assignment: Rational Lab
-// Purpose:		 Driver used to test class Rational
+// Assignment: Rectangle Lab
+// Purpose:		 Driver used to test class Rectangle
 // 
 //						 TODO #1: a) Uncomment getWidth and compile.
 //											b) What is the error and what does it mean?
