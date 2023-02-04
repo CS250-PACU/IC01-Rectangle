@@ -23,8 +23,8 @@
 //												 the function write
 //						 TODO #6: a) Read a single rectangle from the file into
 //												 the variable cRectangle
-//											b) Write the rectangle cRectangleto the display 
-//												 using write
+//											b) Write the rectangle cRectangle to the 
+//												 display using write
 //						 TODO #7: a) Copy the rectangle cRectangle into the
 //												 variable cRectangleCopy
 //										  b) Write the rectangle cRectangleCopy to the 
