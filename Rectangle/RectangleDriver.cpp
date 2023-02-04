@@ -23,8 +23,12 @@
 //												 the function write
 //						 TODO #6: a) Read a single rectangle from the file into
 //												 the variable cRectangle
-//											b) Write the rectangle to the display using
-//												 write
+//											b) Write the rectangle cRectangleto the display 
+//												 using write
+//						 TODO #7: a) Copy the rectangle cRectangle into the
+//												 variable cRectangleCopy
+//										  b) Write the rectangle cRectangleCopy to the 
+//												 display using write.
 //*********************************************************************
 
 #include <iostream>
@@ -49,6 +53,7 @@ int main () {
 	ifstream inStream;
 	Rectangle cRectangles[NUM_RECTANGLES];
 	Rectangle cRectangle;
+	Rectangle cRectangleCopy; 
 
 	inStream.open (FILE_OF_RECTANGLES);
 	if (inStream.fail ()) {
